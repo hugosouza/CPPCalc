@@ -64,6 +64,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="cppcalc.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\README" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
